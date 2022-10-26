@@ -1,4 +1,4 @@
 # Tweezer_All
 
-* [Python files ](https://github.com/ibrahim-elsawy/kafka-twitter.git)
-* [Spring MVC](https://github.com/ibrahim-elsawy/tweezer.git)
+* [Frontend ](https://github.com/ibrahim-elsawy/sportfront.git)
+* [Backend](https://github.com/ibrahim-elsawy/sportServerDotnet.git)
